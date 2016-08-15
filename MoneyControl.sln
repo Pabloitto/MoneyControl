@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyControl.Droid", "MoneyControl.Droid\MoneyControl.Droid.csproj", "{2D2B45E9-5EF7-49F0-B776-00746C4A1CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyControl.Entities", "MoneyControl.Entities\MoneyControl.Entities.csproj", "{5CD2724B-811E-44CC-8A10-899DE3939A9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyControl.DataAccessFacade", "MoneyControl.DataAccessFacade\MoneyControl.DataAccessFacade.csproj", "{B171E577-5ACC-4EF3-B705-1E7D72BDC3F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyControl.Services", "MoneyControl.Services\MoneyControl.Services.csproj", "{ABF5FD22-C5AE-47F3-8E5F-41F2C9A49F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D2B45E9-5EF7-49F0-B776-00746C4A1CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2B45E9-5EF7-49F0-B776-00746C4A1CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2B45E9-5EF7-49F0-B776-00746C4A1CDB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2D2B45E9-5EF7-49F0-B776-00746C4A1CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2B45E9-5EF7-49F0-B776-00746C4A1CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2B45E9-5EF7-49F0-B776-00746C4A1CDB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5CD2724B-811E-44CC-8A10-899DE3939A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD2724B-811E-44CC-8A10-899DE3939A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD2724B-811E-44CC-8A10-899DE3939A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD2724B-811E-44CC-8A10-899DE3939A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B171E577-5ACC-4EF3-B705-1E7D72BDC3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B171E577-5ACC-4EF3-B705-1E7D72BDC3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B171E577-5ACC-4EF3-B705-1E7D72BDC3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B171E577-5ACC-4EF3-B705-1E7D72BDC3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF5FD22-C5AE-47F3-8E5F-41F2C9A49F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF5FD22-C5AE-47F3-8E5F-41F2C9A49F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF5FD22-C5AE-47F3-8E5F-41F2C9A49F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF5FD22-C5AE-47F3-8E5F-41F2C9A49F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

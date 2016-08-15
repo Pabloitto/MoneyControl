@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SignIn">Sign In!</string>
+    <string name="ApplicationName">Money Control APP</string>
+    <string name="Accounts">Accounts</string>
+</resources>
